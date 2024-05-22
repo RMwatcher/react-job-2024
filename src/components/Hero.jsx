@@ -16,4 +16,8 @@ const Hero = ({
   );
 };
 
+Hero.propTypes = {
+  title: <propTypes className="string isRequired"></propTypes>,
+  subtitle: <propTypes className="string isRequired"></propTypes>,
+};
 export default Hero;
