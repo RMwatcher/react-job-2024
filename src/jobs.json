@@ -83,6 +83,20 @@
         "contactEmail": "contact@ipsumlorem.com",
         "contactPhone": "555-555-5555"
       }
+    },
+    {
+      "id": "a8a6",
+      "title": "Full-stack web dev",
+      "type": "Full-Time",
+      "location": "Remote",
+      "description": "This is to help test the functionality of add job, delete job, and edit job buttons. This last test is to make the edit function of our website operational.",
+      "salary": "Under $50K",
+      "company": {
+        "name": "CDRMC",
+        "description": "this is a test",
+        "contactEmail": "test@gmail.com",
+        "contactPhone": "503-867-5309"
+      }
     }
   ]
 }
